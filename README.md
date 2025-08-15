@@ -1,14 +1,11 @@
 # Identify-and-Remove-Suspicious-Browser-Extensions
 Identify and Remove Suspicious Browser Extensions
-# Task 7: Identify and Remove Suspicious Browser Extensions
 
-[cite_start]This repository contains the documentation and report for Task 7 of the Elevate Labs Cyber Security Internship[cite: 2].
-
-## Objective
+Objective
 
 [cite_start]The primary objective of this task was to learn how to spot and remove potentially harmful browser extensions, thereby enhancing browser security and performance[cite: 4, 13].
 
-## Process Overview
+Process Overview
 
 The task involved a systematic review of all installed browser extensions to identify and eliminate any potential security risks. The key steps included:
 
@@ -20,11 +17,11 @@ The task involved a systematic review of all installed browser extensions to ide
 -   [cite_start]Researching how malicious extensions can compromise user security[cite: 14].
 -   [cite_start]Documenting all steps taken and the findings in this repository[cite: 15].
 
-## Tools Used
+Tools Used
 
 -   [cite_start]**Browser:** Mozilla Firefox [cite: 5]
 -   **Operating System:** Kali Linux
 
-## Outcome
+Outcome
 
 [cite_start]This exercise provided a practical understanding of browser security risks and the best practices for managing browser extensions to mitigate potential threats[cite: 16]. The detailed findings and answers to key interview questions are included in the final report.
